@@ -35,7 +35,7 @@ body {
 }
 #ddesc {
     padding-top: 80px;
-    padding-left: 20px;
+    padding-left: 40px;
     grid-column: span 6;
 }
 @media (max-width: 991px) {
