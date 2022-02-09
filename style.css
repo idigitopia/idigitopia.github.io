@@ -149,6 +149,11 @@ hr {
     margin-bottom: 20px;
     margin-top: 40px;
 }
+.ptitle {
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
 #featured-talks .row {
     grid-column-gap: 10px;
     grid-row-gap: 10px;
