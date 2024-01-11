@@ -198,6 +198,13 @@ hr {
     grid-column-gap: 10px;
     grid-row-gap: 10px;
 }
+.left-right-aligned {
+    text-align: left;
+  }
+  
+.left-right-aligned span {
+text-align-last: right;
+}
 .project {
     margin-bottom: 10px;
     padding-bottom: 10px;
