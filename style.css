@@ -226,6 +226,7 @@ hr {
 .pub-title {
     display: inline;
     color: #333;
+    text-decoration: none;
 }
 .pub-venue {
     display: inline;
